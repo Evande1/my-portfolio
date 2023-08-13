@@ -1,5 +1,6 @@
 import AboutSection from "../components/AboutSection";
 import HeroSection from "../components/HeroSection";
+import ProjectSection from "../components/ProjectSection";
 
 
 export default function Home() {
@@ -7,6 +8,7 @@ export default function Home() {
     <main className="mx-auto max-w-3xl px-4 sn:px-6 md:max-w-5xl">
       <HeroSection/>
       <AboutSection/>
+      <ProjectSection/>
     </main>
   )
 }
