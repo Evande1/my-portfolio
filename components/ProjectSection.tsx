@@ -20,10 +20,9 @@ const projects = [
   {
     name: 'Crowd Purchasing Application',
     description:
-      'Application that collates orders of people staying near each other to save on carrier costs. Collaborated with a team of 5 to build a React Native application that utilized Firebase and React Native Gifted Chat to facilitate group buys. Presented to a panel of judges.',
+      'Application that collates orders of people staying near each other to save on carrier costs. Collaborated with a team of 5 to build a React Native application that utilized Firebase and React Native Gifted Chat to facilitate group buys. Presented to a panel of judges in DSTA Brainhack 2022.',
     github: 'https://github.com/jinyangp/codeexp_2022',
   },
-  
 ];
 
 function ProjectSection() {

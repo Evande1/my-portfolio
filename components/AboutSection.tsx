@@ -26,7 +26,7 @@ function AboutSection() {
             <br />
             <p>
               Through playing sports, video games and taking part in
-              hackerthons, I am able to consistently challenge myself while
+              hackathons, I am able to consistently challenge myself while
               having fun.
             </p>
             <br />
